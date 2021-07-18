@@ -15,7 +15,7 @@
 
 ---
 
-### Stuff I care About 
+#### Stuff I care About 
 
 - 📚 Value of Quality Education
 - 🌿 Providing value to humankind through Computer Science and its Applications.
@@ -24,7 +24,7 @@
 
 ---
 
-### Reach out to me :earth_asia:
+#### Reach out to me :earth_asia:
 - <a href="https://www.linkedin.com/in/abhishekp6"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" height="20"></img></a> Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/abhishekp6/">LinkedIn</a>
 - <a href="https://twitter.com/Abhlshek_"><img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" height="15"></img></a> Tweeting about tech and entrepreneurship on <a href="https://twitter.com/Abhlshek_">Twitter</a>
 <!--
