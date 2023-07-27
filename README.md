@@ -10,7 +10,6 @@
 - 🏢 I am currently working as a Full time **Software Engineer** @ **Lumiq.ai**.
 - 🌱 Technologies I am familiar with: **Angular, ReactJS, NodeJS, REST, MongoDB.**
 - 🛡️ Programming Languages I am familiar with:  **C/C++, Javascript, Typescript, Python.**
-- Certifications I hold: **AWS Certified Cloud Practitioner**, **AWS Certified Developer Associate**
 - 🔭 Stuff I'm interested about in Software Engineering domain: **Distributed Systems, Systems Design, Algorithms.**
 - 📺 Fun Fact: Series I am currently watching: The Office, Silicon Valley.
 
