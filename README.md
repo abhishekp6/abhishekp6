@@ -7,8 +7,8 @@
 
 **I am a Software Engineer from India and I like to solve problems mostly through code.**
 
-- 🏢 I am currently working as a Full time **Software Engineer** @ **Lumiq.ai**.
-- 🌱 Technologies I am familiar with: **Angular, ReactJS, NodeJS, REST, MongoDB.**
+- 🏢 I am currently working as a full time **Software Engineer** @ **Lumiq.ai**.
+- 🌱 Technologies I am familiar with: **Angular, ReactJS, NodeJS, REST, MongoDB, AWS.**
 - 🛡️ Programming Languages I am familiar with:  **C/C++, Javascript, Typescript, Python.**
 - 🔭 Stuff I'm interested about in Software Engineering domain: **Distributed Systems, Systems Design, Algorithms.**
 - 📺 Fun Fact: Series I am currently watching: The Office, Silicon Valley.
