@@ -5,13 +5,15 @@
 #### *I'm Abhishek :wave:*
 ---
 
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
 **I am a Software Engineer from India and I like to solve problems mostly through code.**
 
-- 🏢 I am currently working as a full time **Software Engineer** @ **Lumiq.ai**.
-- 🌱 Technologies I am familiar with: **Angular, ReactJS, NodeJS, REST, MongoDB, AWS.**
-- 🛡️ Programming Languages I am familiar with:  **C/C++, Javascript, Typescript, Python.**
+- 🏢 I am currently working as a full time **Software Engineer** @ [Lumiq.ai](https://lumiq.ai/).
+- 🌱 Technologies I am familiar with: **ReactJs, Angular, NodeJs, ExpressJs, REST, MongoDB, OAuth, AWS.**
+- 🛡️ Programming Languages I am familiar with:  **Javascript, C/C++, Typescript, Python.**
 - 🔭 Stuff I'm interested about in Software Engineering domain: **Distributed Systems, Systems Design, Algorithms.**
-- 📺 Fun Fact: Series I am currently watching: The Office, Silicon Valley.
+- 📖 Checkout my latest tech writeups at [Medium](https://medium.com/@abhishekp6).
 
 ---
 
