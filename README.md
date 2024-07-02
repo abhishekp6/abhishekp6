@@ -1,6 +1,4 @@
-<!--### Hi there 👋-->
-
-#### *Hello, I'm Abhishek :wave:*
+#### *:wave: I'm Abhishek*
 ---
 
 <p>
@@ -27,20 +25,20 @@
 
 **I am a Software Engineer from India and I like to solve problems mostly through code.**
 
-- 🏢 I am currently working as a full time **Software Engineer** @ [Lumiq.ai](https://lumiq.ai/).
-- 🌱 Technologies I have experience with **ReactJs, Angular, NodeJs, ExpressJs, REST, MongoDB, OAuth, AWS.**
-- 🛡️ Programming Languages I am familiar with:  **Javascript, C/C++, Typescript, Python.**
-- 🔭 Stuff I'm interested about in Software Engineering domain: **Distributed Systems, Systems Design, Algorithms.**
+- 🏢 I am currently working as a full time: **Software Engineer** @ [Lumiq.ai](https://lumiq.ai/).
+- 🌱 Technologies I have experience with: **ReactJs, NextJs, Angular, NodeJs, ExpressJs, REST, MongoDB, OAuth, AWS.**
+- 🛡️ Languages I program with:  **Javascript, Typescript, C++, Python.**
+- 🔭 Stuff I'm interested in Software Engineering: **Distributed Systems, Systems Design, Algorithms.**
 - 📖 Checkout my latest tech writeups at [Medium](https://medium.com/@abhishekp6).
 
 ---
 
-#### Stuff I care About 
+#### Stuff I care about 
 
-- 📚 Value of Quality Education
-- 🌿 Providing value to humankind through Computer Science and its Applications.
-- ♻️ Environment
-- 🔰 Open Source Ecosystem
+- 📚 Value of quality education
+- 🌿 Providing value to humankind through computer science and its applications.
+- ♻️ Environment and sustainability
+- 🔰 Open source ecosystem
 
 ---
 
