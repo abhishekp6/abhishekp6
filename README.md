@@ -25,7 +25,7 @@
 
 **I am a Software Engineer from India and I like to solve problems mostly through code.**
 
-- 🏢 I am currently working as a full time: **Senior UI Engineer** @ [Nykaa](https://www.nykaa.com/).
+- 🏢 I am currently working as a full time: **Software Engineer** @ [Nykaa](https://www.nykaa.com/).
 - 🌱 Technologies I have experience with: **ReactJs, NextJs, Angular, NodeJs, ExpressJs, REST, MongoDB, OAuth, AWS, Redis, Kafka.**
 - 🛡️ Languages I program with:  **Javascript, Typescript, C++, Python.**
 - 🔭 Stuff I'm interested in Software Engineering: **Distributed Systems, Systems Design, Algorithms.**
