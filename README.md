@@ -4,27 +4,20 @@
 
 ---
 
-### 👨‍💻 Current areas of interest
-Generative AI • UI Design principles • Engineering for Scale • Developer Productivity
-
----
-
-### 🛠 Tech Stack
-**Frontend:** React, Next.js, Angular, Redux, Tailwind  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, Redis  
-**Cloud/DevOps:** AWS, Docker, Kafka  
-**Tools:** Git, npm, Postman, Figma
-
----
-
-### 💡 Core Values  
-🎓 Education for all • 🌿 Impactful solutions • ♻️ Sustainability • 🌱 Open source
+- 🔭 **Interests:** Generative AI • UI/UX Design • Scalable Systems • Dev Productivity  
+- 🧩 **Frontend:** React • Next.js • Angular • Redux • Tailwind  
+- 🚀 **Backend:** Node.js • Express.js • REST APIs  
+- 🗄️ **Database:** MongoDB • Redis  
+- ☁️ **DevOps & Infra:** AWS • Docker • Kafka  
+- 🛠️ **Tools:** Git • Postman • Figma  
+- 💡 **Values:** Education for all • Sustainability • Open Source • Real-world Impact
 
 ---
 
 ### 🌍 Connect  
-[LinkedIn](https://www.linkedin.com/in/abhishekp6) • [Twitter](https://twitter.com/Abhlshek_) • [Medium](https://medium.com/@abhishekp6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/abhishekp6)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=white&style=flat)](https://twitter.com/Abhlshek_)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@abhishekp6)
 
 ---
 
